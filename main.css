@@ -42,7 +42,7 @@ background-color: var(--Very-pale-blue);
   font-size: 28px;
 }
 .card .body p {
-  margin: 20px 0 ;
+  margin: 35px 0 ;
   color: grey;
 }
 .card .body .plan{
